@@ -11,7 +11,8 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@lynx-js/react": "^0.107.0"
+    "@lynx-js/react": "^0.107.0",
+    "@supabase/supabase-js": "^2.49.4"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
